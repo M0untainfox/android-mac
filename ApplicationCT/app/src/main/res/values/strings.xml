@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gestion des entretiens</string>
+    <string name="btnCo">Se connecter</string>
+    <string name="btnEnter">Entrer</string>
+    <string name="frag1">Information vehicule</string>
+    <string name="frag2">Ajout vehicule</string>
+    <string name="MDPHint" translatable="false">••••••••••</string>
+    <string name="UserHint">Utilisateur</string>
+    <string name="home">Accueil</string>
+    <string name="title_activity_menu" translatable="false">Menu</string>
+    <string name="cat1">Selection vehicule</string>
+    <string name="mail" translatable="false">contact@mail.com</string>
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
+
+    <string name="action_settings">Options</string>
+</resources>
